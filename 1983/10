@@ -840,3 +840,8 @@ I heard there was a lot of sex on television these days,
 but when I tried it I kept falling off.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
