@@ -175,3 +175,13 @@ the worst cigars.
 The meek inherit the earth -- usually in small sections... about 6 by 3.
 
 
+Theorem: All programs are dull.
+
+Proof: Assume the contrary; i.e., the set of interesting programs is
+nonempty.  Arrange them (or it) in order of interest (note that all
+sets can be well ordered, so do it properly).  The minimal element is
+the "least interesting program", the obvious dullness of which provides
+the contradictory denouement we so devoutly seek.
+		-- Stan Kelly-Bootle, "The Devil's DP Dictionary"
+
+
