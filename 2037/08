@@ -636,3 +636,7 @@ but business is business."
 You humans are all alike.
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
