@@ -341,3 +341,9 @@ Q:	Have you heard about the man who didn't pay for his exorcism?
 A:	He got re-possessed!
 
 
+Note: The system panics with a "NULL pointer dereference" message
+
+Failed due to: SunOS 5.8 is installed.
+		-- Output of a SunCheckup run on a Solaris 8 machine
+
+
