@@ -391,3 +391,7 @@ A Law of Computer Programming:
 	and you will find that programmers cannot write in English.
 
 
+Don't patch bad code -- rewrite it.
+		-- Kernighan and Plauger, "The Elements of Programming Style"
+
+
