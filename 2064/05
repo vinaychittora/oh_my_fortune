@@ -720,3 +720,26 @@ heroes are meant to die for unicorns."
 		-- P. Beagle, "The Last Unicorn"
 
 
+Hacker's Guide To Cooking:
+2 pkg. cream cheese (the mushy white stuff in silver wrappings that doesn't
+	really come from Philadelphia after all; anyway, about 16 oz.)
+1 tsp. vanilla extract (which is more alcohol than vanilla and pretty
+	strong so this part you *GOTTA* measure)
+1/4 cup sugar (but honey works fine too)
+8 oz. Cool Whip (the fluffy stuff devoid of nutritional value that you
+	can squirt all over your friends and lick off...)
+"Blend all together until creamy with no lumps."  This is where you get to
+	join(1) all the raw data in a big buffer and then filter it through
+	merge(1m) with the -thick option, I mean, it starts out ultra lumpy
+	and icky looking and you have to work hard to mix it.  Try an electric
+	beater if you have a cat(1) that can climb wall(1s) to lick it off
+	the ceiling(3m).
+"Pour into a graham cracker crust..."  Aha, the BUGS section at last.  You
+	just happened to have a GCC sitting around under /etc/food, right?
+	If not, don't panic(8), merely crumble a rand(3m) handful of innocent
+	GCs into a suitable tempfile and mix in some melted butter.
+"...and refrigerate for an hour."  Leave the recipe's stdout in a fridge
+	for 3.6E6 milliseconds while you work on cleaning up stderr, and
+	by time out your cheesecake will be ready for stdin.
+
+
