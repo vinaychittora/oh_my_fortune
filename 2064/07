@@ -493,3 +493,24 @@ industrial waste?
 		-- Dave Barry, "On Presidential Politics"
 
 
+===  ALL USERS PLEASE NOTE  ========================
+
+There has been some confusion concerning MAPCAR.
+	(DEFUN MAPCAR (&FUNCTIONAL FCN &EVAL &REST LISTS)
+		(PROG (V P LP)
+		(SETQ P (LOCF V))
+	L	(SETQ LP LISTS)
+		(%START-FUNCTION-CALL FCN T (LENGTH LISTS) NIL)
+	L1	(OR LP (GO L2))
+		(AND (NULL (CAR LP)) (RETURN V))
+		(%PUSH (CAAR LP))
+		(RPLACA LP (CDAR LP))
+		(SETQ LP (CDR LP))
+		(GO L1)
+	L2	(%FINISH-FUNCTION-CALL FCN T (LENGTH LISTS) NIL)
+		(SETQ LP (%POP))
+		(RPLACD P (SETQ P (NCONS LP)))
+		(GO L)))
+We hope this clears up the many questions we've had about it.
+
+
