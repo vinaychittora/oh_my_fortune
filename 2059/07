@@ -756,3 +756,6 @@ Come home America.
 		-- George McGovern, 1972
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
