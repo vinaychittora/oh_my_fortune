@@ -668,3 +668,8 @@ And never lie down with a woman who's got more troubles than you.
 		-- Nelson Algren, "What Every Young Man Should Know"
 
 
+Real software engineers don't debug programs, they verify correctness.
+This process doesn't necessarily involve execution of anything on a
+computer, except perhaps a Correctness Verification Aid package.
+
+
