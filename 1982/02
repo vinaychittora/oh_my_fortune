@@ -696,3 +696,7 @@ has been known to abandon the desktop for the more spacious floor.
 		-- Frederick Brooks, Jr.
 
 
+question = ( to ) ? be : ! be;
+		-- William Shakespeare
+
+
