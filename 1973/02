@@ -831,3 +831,8 @@ Grandpa Charnock's Law:
 	[I thought it was when your kids learned to drive.  Ed.]
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
