@@ -633,3 +633,21 @@ us nothing.
 I'd walk a mile for a Camel, two for a hump.
 
 
+What is actually happening, I am afraid, is that we all tell each
+other and ourselves that software engineering techniques should be
+improved considerably, because there is a crisis.  But there are a few
+boundary conditions which apparently have to be satisfied:
+
+    1. We may not change our thinking habits.
+    2. We may not change our programming tools.
+    3. We may not change our hardware.
+    4. We may not change our tasks.
+    5. We may not change the organizational set-up
+       in which the work has to be done.
+
+Now under these five immutable boundary conditions, we have to try to
+improve matters. This is utterly ridiculous.
+
+Edsger W. Dijkstra, on receiving the ACM Turing Award in 1972
+
+
