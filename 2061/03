@@ -846,3 +846,6 @@ Life is what happens to you while you're busy making other plans.
 		-- John Lennon, "Beautiful Boy"
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
