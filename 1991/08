@@ -577,3 +577,8 @@ of 40,000 or even 4,000 per hour ...
 		-- F. H. Wales (1936)
 
 
+Real computer scientists despise the idea of actual hardware.  Hardware has
+limitations, software doesn't.  It's a real shame that Turing machines are
+so poor at I/O.
+
+
