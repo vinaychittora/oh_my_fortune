@@ -124,3 +124,7 @@ Sir, may I ask nine questions?
 Try `stty 0' -- it works much better.
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
