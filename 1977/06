@@ -1017,3 +1017,6 @@ Qui n'avait que peu de religion.
 Le pere, et le fils, et le pigeon-"
 
 
+Don't compare floating point numbers solely for equality.
+
+
