@@ -867,3 +867,6 @@ Thus spake the master programmer:
 Memory should be the starting point of the present.
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
