@@ -942,3 +942,14 @@ Looked for true love in the stable.
 Now she's out with the leg of a table.
 
 
+Speaking as someone who has delved into the intricacies of PL/I, I am sure
+that only Real Men could have written such a machine-hogging, cycle-grabbing,
+all-encompassing monster.  Allocate an array and free the middle third?
+Sure!  Why not?  Multiply a character string times a bit string and assign the
+result to a float decimal?  Go ahead!  Free a controlled variable procedure
+parameter and reallocate it before passing it back?  Overlay three different
+types of variable on the same memory location?  Anything you say!  Write a
+recursive macro?  Well, no, but Real Men use rescan.  How could a language
+so obviously designed and written by Real Men not be intended for Real Man use?
+
+
