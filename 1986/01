@@ -614,3 +614,6 @@ no dog exchanges bones with another.
 		-- Adam Smith
 
 
+Experiments must be reproducible; they should all fail in the same way.
+
+
