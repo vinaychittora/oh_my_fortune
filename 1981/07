@@ -788,3 +788,6 @@ Carperpetuation (kar' pur pet u a shun), n.:
 Computer programs expand so as to fill the core available.
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
