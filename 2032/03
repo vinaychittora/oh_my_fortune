@@ -191,3 +191,7 @@ improve ...
 		-- Dave Barry, "In Search of Excellence"
 
 
+Q:	How did the regular expression cross the road?
+A:	^.*$
+
+
