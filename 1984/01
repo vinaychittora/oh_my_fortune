@@ -868,3 +868,8 @@ Kinkler's Second Law:
 Travel important today;  Internal Revenue men arrive tomorrow.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
