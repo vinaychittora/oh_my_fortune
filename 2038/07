@@ -717,3 +717,17 @@ To communicate is the beginning of understanding.
 		-- AT&T
 
 
+The following quote is from page 4-27 of the MSCP Basic Disk Functions
+Manual which is part of the UDA50 Programmers Doc Kit manuals:
+
+As stated above, the host area of a disk is structured as a vector of
+logical blocks.  From a performance viewpoint, however, it is more
+appropriate to view the host area as a four dimensional hyper-cube, the
+four dimensions being cylinder, group, track, and sector.
+	. . .
+Referring to our hyper-cube analogy, the set of potentially accessible
+blocks form a line parallel to the track axis.  This line moves
+parallel to the sector axis, wrapping around when it reaches the edge
+of the hyper-cube.
+
+
