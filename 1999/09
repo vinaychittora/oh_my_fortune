@@ -596,3 +596,9 @@ will it live?"  The other said, "When you have gotten out of the net,
 I'll tell you."
 
 
+It is perfectly permissible for every system call to fail with [ENOTADUCK]
+unless the first five bytes of the caller's address space contain the
+word "quack".
+		-- Garrett Wollman
+
+
