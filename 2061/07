@@ -442,3 +442,6 @@ a drive-in movie.  The movie cost me $95.
 		-- Steven Wright
 
 
+Don't compare floating point numbers solely for equality.
+
+
