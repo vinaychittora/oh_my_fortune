@@ -312,3 +312,8 @@ gesture by the individual to himself.
 Don't relax!  It's only your tension that's holding you together.
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
