@@ -408,3 +408,11 @@ picturesque liar.
 		-- Mark Twain
 
 
+The fountain code has been tightened slightly so you can no longer dip
+objects into a fountain or drink from one while you are floating in mid-air
+due to levitation.
+	Teleporting to hell via a teleportation trap will no longer occur
+if the character does not have fire resistance.
+		-- README file from the NetHack game
+
+
