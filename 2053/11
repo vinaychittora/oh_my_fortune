@@ -286,3 +286,23 @@ Feminism, n.:
 	both men and women are treated as women wish to be treated.
 
 
+(defun NF (a c)
+  (cond ((null c) () )
+	((atom (car c))
+	  (append (list (eval (list 'getchar (list (car c) 'a) (cadr c))))
+		 (nf a (cddr c))))
+	(t (append (list (implode (nf a (car c)))) (nf a (cdr c))))))
+
+(defun AD (want-job challenging boston-area)
+  (cond
+   ((or (not (equal want-job 'yes))
+	(not (equal boston-area 'yes))
+	(lessp challenging 7)) () )
+   (t (append (nf  (get 'ad 'expr)
+	  '((caaddr 1 caadr 2 car 1 car 1)
+	    (car 5 cadadr 9 cadadr 8 cadadr 9 caadr 4 car 2 car 1)
+	    (car 2 caadr 4)))
+      (list '851-5071x2661)))))
+;;;     We are an affirmative action employer.
+
+
