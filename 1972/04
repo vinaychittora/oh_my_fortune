@@ -486,3 +486,6 @@ Each of us bears his own Hell.
 		-- Publius Vergilius Maro (Virgil)
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
