@@ -107,3 +107,7 @@ fool is despised only because he is a lawyer.
 egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
 
 
+Hell hath no fury like a bureaucrat scorned.
+		-- Milton Friedman
+
+
