@@ -484,3 +484,9 @@ remnants of the wolf and the fox.
 important -- it's your PhD advisor that really counts.
 
 
+It is perfectly permissible for every system call to fail with [ENOTADUCK]
+unless the first five bytes of the caller's address space contain the
+word "quack".
+		-- Garrett Wollman
+
+
