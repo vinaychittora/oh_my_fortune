@@ -786,3 +786,10 @@ New release:
 	rate there will soon be an up to a one year wait.
 
 
+But in our enthusiasm, we could not resist a radical overhaul of the
+system, in which all of its major weaknesses have been exposed,
+analyzed, and replaced with new weaknesses.
+		-- Bruce Leverett,
+		   "Register Allocation in Optimizing Compilers"
+
+
