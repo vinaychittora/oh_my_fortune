@@ -705,3 +705,6 @@ face.
 		-- National Lampoon, "Deteriorata"
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
