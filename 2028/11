@@ -768,3 +768,7 @@ while waiting for a SLOBOL program to compile.  Weary SLOBOL programmers
 often turn to a related (but infinitely faster) language, COCAINE.
 
 
+Q:	How many IBM CPUs does it take to do a logical right shift?
+A:	33.  1 to hold the bits and 32 to push the register.
+
+
