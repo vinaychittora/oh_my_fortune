@@ -624,3 +624,6 @@ depends upon his not understanding it.
 		-- Upton Sinclair
 
 
+Be careful when a loop exits to the same place from side and bottom.
+
+
