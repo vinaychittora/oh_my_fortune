@@ -343,3 +343,8 @@ goes out, he should not leave his face at the window.  Someone might steal
 it."
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
