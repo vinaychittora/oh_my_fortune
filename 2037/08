@@ -640,3 +640,6 @@ Sendmail may be safely run set-user-id to root.
 		-- Eric Allman, "Sendmail Installation Guide"
 
 
+There's a lot to be said for not saying a lot.
+
+
