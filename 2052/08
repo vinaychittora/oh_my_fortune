@@ -776,3 +776,6 @@ now.  They're in a band.
 		-- Ira Kaplan
 
 
+Make sure your code does nothing gracefully.
+
+
