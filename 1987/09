@@ -769,3 +769,6 @@ Never get into fights with ugly people because they have nothing to lose.
 		-- C code which reverses the bits in a word
 
 
+The REVERSE function works on the opposite SEXPR.
+
+
