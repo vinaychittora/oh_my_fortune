@@ -200,3 +200,9 @@ Hums liturgical tunes while he rims:
 All the others get Anglican hymns.
 
 
+It is perfectly permissible for every system call to fail with [ENOTADUCK]
+unless the first five bytes of the caller's address space contain the
+word "quack".
+		-- Garrett Wollman
+
+
