@@ -306,3 +306,6 @@ the zoo, I did."  And Urho yells back "Yup, and tomorrow we're going to
 the movies!"
 
 
+Be careful when a loop exits to the same place from side and bottom.
+
+
