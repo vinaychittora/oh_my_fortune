@@ -703,3 +703,6 @@ You know you're in trouble when...
 An effective way to deal with predators is to taste terrible.
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
