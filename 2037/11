@@ -832,3 +832,25 @@ husband: "That's not true, I do enjoy sex!"  Then, turning to the counselor,
 she added: "But this fiend expects it three or four times a year!"
 
 
+If you ever want to have a lot of fun, I recommend that you go off and program
+an embedded system.  The salient characteristic of an embedded system is that
+it cannot be allowed to get into a state from which only direct intervention
+will suffice to remove it.  An embedded system can't permanently trust anything
+it hears from the outside world.  It must sniff around, adapt, consider, sniff
+around, and adapt again.  I'm not talking about ordinary modular programming
+carefulness here.  No.  Programming an embedded system calls for undiluted
+raging maniacal paranoia.  For example, our ethernet front ends need to know
+what network number they are on so that they can address and route PUPs
+properly.  How do you find out what your network number is?  Easy, you ask a
+gateway.  Gateways are required by definition to know their correct network
+numbers.  Once you've got your network number, you start using it and before
+you can blink you've got it wired into fifteen different sockets spread all
+over creation.  Now what happens when the panic-stricken operator realizes he
+was running the wrong version of the gateway which was giving out the wrong
+network number?  Never supposed to happen.  Tough.  Supposing that your
+software discovers that the gateway is now giving out a different network
+number than before, what's it supposed to do about it?  This is not discussed
+in the protocol document.  Never supposed to happen.  Tough.  I think you
+get my drift.
+
+
