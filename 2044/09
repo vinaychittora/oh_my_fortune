@@ -237,3 +237,7 @@ Things Charles Darwin did not say:
 Nah, it's only a theory - I don't think it should be taught in schools.
 
 
+Don't patch bad code -- rewrite it.
+		-- Kernighan and Plauger, "The Elements of Programming Style"
+
+
