@@ -342,3 +342,8 @@ How sharper than a serpent's tooth is a sister's "See?"
 		-- Linus Van Pelt
 
 
+This process can check if this value is zero, and if it is, it does
+something child-like.
+		-- Forbes Burkowski, CS, University of Washington
+
+
