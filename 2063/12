@@ -104,3 +104,10 @@ in thirty seconds, the symbol becomes a candidate for GCing.  The variable
 SI:%GC-QLX-LUSER-TM governs how long the GC waits before timing out the user.
 
 
+APPOINTMENT BOOK:
+	The reference of last resort when trying to duck undesired
+	invitations ("Gee, the soonest I can pencil you in is
+	December, 2039"), or when trying to figure out what the hell
+	it was you did during the past year.
+
+
