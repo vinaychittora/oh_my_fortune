@@ -1036,3 +1036,7 @@ them unsafe.
 		-- Mayor Frank Rizzo
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
