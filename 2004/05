@@ -391,3 +391,10 @@ Be careful of reading health books, you might die of a misprint.
 egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
 
 
+	"What are we going to do?"
+	"Me, I'm examining the major Western religions.  I'm looking
+for something that's soft on morality, generous with holidays, and has a
+short initiation period."
+		-- Maddie and David, "Moonlighting"
+
+
