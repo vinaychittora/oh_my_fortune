@@ -803,3 +803,7 @@ Bi, n.:
 	When *everybody* thinks you're a pervert.
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
