@@ -790,3 +790,6 @@ it's for fun.  Money's just the way we keep score.
 He who is good for making excuses is seldom good for anything else.
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
