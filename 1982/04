@@ -684,3 +684,11 @@ Tehee quod she, and clapte the wyndow to.
 		-- Geoffrey Chaucer
 
 
+An interpretation I satisfies a sentence in the table language if and only if
+each entry in the table designates the value of the function designated by the
+function constant in the upper-left corner applied to the objects designated
+by the corresponding row and column labels.
+		-- Genesereth & Nilsson,
+		   "Logical foundations of Artificial Intelligence"
+
+
