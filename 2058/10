@@ -533,3 +533,6 @@ daydreams about women.
 		-- George Bernard Shaw
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
