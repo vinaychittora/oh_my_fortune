@@ -366,3 +366,7 @@ Argue for your limitations, and sure enough, they're yours.
 No man is an island if he's on at least one mailing list.
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
