@@ -326,3 +326,6 @@ Norm:   Going down?
 		-- Cheers, Diane Meets Mom
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
