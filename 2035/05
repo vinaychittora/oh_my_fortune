@@ -304,3 +304,7 @@ Out of sight is out of mind.
 		-- Arthur Clough
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
