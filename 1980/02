@@ -547,3 +547,8 @@ little prophet?  And it was Moses who led the Children of Israel to the
 Banks of the Jordan!
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
