@@ -524,3 +524,8 @@ DEATH WISH:
 	The only wish that always comes true, whether or not one wishes it to.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
