@@ -809,3 +809,6 @@ Be cautious in your daily affairs.
 This system goes down more often than a two-dollar whore.
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
