@@ -607,3 +607,8 @@ Mate, this parrot wouldn't VOOM if you put four million volts through it!
 		-- Monty Python
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
