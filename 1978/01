@@ -737,3 +737,6 @@ form.
 		-- Dave Barry, "Sweating Out Taxes"
 
 
+Be careful when a loop exits to the same place from side and bottom.
+
+
