@@ -703,3 +703,6 @@ It's the truth.
 		-- Charlie Chaplin
 
 
+Experiments must be reproducible; they should all fail in the same way.
+
+
