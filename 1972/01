@@ -828,3 +828,8 @@ Mask in, mask out,
 BYTE, BYTE, BYTE !!!
 
 
+There's a long-standing bug relating to the x86 architecture that
+allows you to install Windows.
+		-- Matthew D. Fuller
+
+
