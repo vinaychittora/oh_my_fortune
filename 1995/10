@@ -513,3 +513,6 @@ someone with it.
 		-- M. Devine, Computer Science 340
 
 
+Don't compare floating point numbers solely for equality.
+
+
