@@ -417,3 +417,7 @@ No matter how clever the hardware boys
 are, the software boys piss it away.
 
 
+Asynchronous inputs are at the root of our race problems.
+		-- D. Winker and F. Prosser
+
+
