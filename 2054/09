@@ -308,3 +308,13 @@ burned as he stared for what seemed an eternity.  Finally, his father spoke.
 	"Son, you ain't supposed to milk the damn cow till mornin'!"
 
 
+Theorem: All programs are dull.
+
+Proof: Assume the contrary; i.e., the set of interesting programs is
+nonempty.  Arrange them (or it) in order of interest (note that all
+sets can be well ordered, so do it properly).  The minimal element is
+the "least interesting program", the obvious dullness of which provides
+the contradictory denouement we so devoutly seek.
+		-- Stan Kelly-Bootle, "The Devil's DP Dictionary"
+
+
