@@ -1028,3 +1028,7 @@ can be an exception to the rule that for every rule there is an exception.
 Please go away.
 
 
+Q:	How many IBM CPUs does it take to do a logical right shift?
+A:	33.  1 to hold the bits and 32 to push the register.
+
+
