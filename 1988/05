@@ -409,3 +409,7 @@ The order is not insignificant.
 		-- Poul Henningsen (1894-1967)
 
 
+A formal parsing algorithm should not always be used.
+		-- D. Gries
+
+
