@@ -4,3 +4,8 @@ POP UP, PUSH DOWN,
 BYTE, BYTE, BYTE!
 
 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every program
+can be reduced to one instruction which doesn't work.
+
+
