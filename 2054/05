@@ -121,3 +121,6 @@ Sir, may I ask nine questions?
 	(go right ahead...)
 
 
+Try `stty 0' -- it works much better.
+
+
