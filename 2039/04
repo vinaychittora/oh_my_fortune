@@ -839,3 +839,29 @@ appreciate his wife.
 Shhh... be vewy, vewy, quiet!  I'm hunting wabbits...
 
 
+Dear Emily:
+	I'm still confused as to what groups articles should be posted
+to.  How about an example?
+		-- Still Confused
+
+Dear Still:
+	Ok.  Let's say you want to report that Gretzky has been traded from
+the Oilers to the Kings.  Now right away you might think rec.sport.hockey
+would be enough.  WRONG.  Many more people might be interested.  This is a
+big trade!  Since it's a NEWS article, it belongs in the news.* hierarchy
+as well.  If you are a news admin, or there is one on your machine, try
+news.admin.  If not, use news.misc.
+	The Oilers are probably interested in geology, so try sci.physics.
+He is a big star, so post to sci.astro, and sci.space because they are also
+interested in stars.  Next, his name is Polish sounding.  So post to
+soc.culture.polish.  But that group doesn't exist, so cross-post to
+news.groups suggesting it should be created.  With this many groups of
+interest, your article will be quite bizarre, so post to talk.bizarre as
+well.  (And post to comp.std.mumps, since they hardly get any articles
+there, and a "comp" group will propagate your article further.)
+	You may also find it is more fun to post the article once in each
+group.  If you list all the newsgroups in the same article, some newsreaders
+will only show the article to the reader once!  Don't tolerate this.
+		-- Emily Postnews Answers Your Questions on Netiquette
+
+
