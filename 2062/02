@@ -955,3 +955,7 @@ semicolon.
 A nasty looking dwarf throws a knife at you.
 
 
+question = ( to ) ? be : ! be;
+		-- William Shakespeare
+
+
