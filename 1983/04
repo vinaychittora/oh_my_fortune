@@ -630,3 +630,6 @@ favor of smart solutions to stupid problems.
 		-- Piers Anthony
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
