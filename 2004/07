@@ -678,3 +678,7 @@ Here's something to think about:  How come you never see a headline like
 		-- Jay Leno
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
