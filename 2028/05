@@ -402,3 +402,6 @@ made of things.
 		-- T. S. Eliot, "The Family Reunion"
 
 
+Experiments must be reproducible; they should all fail in the same way.
+
+
