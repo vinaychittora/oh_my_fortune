@@ -11,3 +11,6 @@ presumably flunk it.
 		-- Stanley Garn
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
