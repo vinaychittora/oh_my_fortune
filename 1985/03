@@ -617,3 +617,7 @@ would destroy the whole point of it."
 		-- Thomas Pynchon, "The Crying of Lot 49"
 
 
+question = ( to ) ? be : ! be;
+		-- William Shakespeare
+
+
