@@ -148,3 +148,8 @@ May your camel be as swift as the wind.
 The meek inherit the earth -- usually in small sections... about 6 by 3.
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
