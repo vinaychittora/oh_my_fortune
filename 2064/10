@@ -649,3 +649,6 @@ when you lose yours.
 		-- Harry S. Truman
 
 
+Don't compare floating point numbers solely for equality.
+
+
