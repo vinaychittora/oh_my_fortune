@@ -684,3 +684,6 @@ Dear Prince:
 	you're splitting my ends.
 
 
+Don't compare floating point numbers solely for equality.
+
+
