@@ -633,3 +633,8 @@ favor of smart solutions to stupid problems.
 egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
 
 
+Men never do evil so completely and cheerfully as when they do it
+from religious conviction.
+		-- Blaise Pascal, "Pens'ees", 1670
+
+
