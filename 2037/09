@@ -7,3 +7,7 @@ Stenderup's Law:
 	The sooner you fall behind, the more time you will have to catch up.
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
