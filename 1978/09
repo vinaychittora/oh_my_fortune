@@ -834,3 +834,8 @@ Here is a test to find whether your mission on earth is finished:
 if you're alive, it isn't.
 
 
+A fractal is by definition a set for which the Hausdorff Besicovitch
+dimension strictly exceeds the topological dimension.
+		-- Mandelbrot, "The Fractal Geometry of Nature"
+
+
