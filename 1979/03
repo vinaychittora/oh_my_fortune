@@ -339,3 +339,6 @@ from charity, or revenge?
 		-- Gustave Vapereau
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
