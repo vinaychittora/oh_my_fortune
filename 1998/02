@@ -405,3 +405,6 @@ of the people are right more than half of the time.
 		-- E. B. White
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
