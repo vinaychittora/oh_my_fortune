@@ -257,3 +257,13 @@ you've got it made.
 		-- Jean Giraudoux
 
 
+If preceded by a '-', the timezone shall be east of the Prime
+Meridian; otherwise, it shall be west (which may be indicated by
+an optional preceding '+').
+		-- POSIX 2001
+
+The "+" or "-" indicates whether the time-of-day is ahead of
+(i.e., east of) or behind (i.e., west of) Universal Time.
+		-- RFC 2822
+
+
