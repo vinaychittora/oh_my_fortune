@@ -165,3 +165,7 @@ fortune: cpu time/usefulness ratio too high -- core dumped.
 Help stamp out Mickey-Mouse computer interfaces -- Menus are for Restaurants!
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
