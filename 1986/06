@@ -582,3 +582,7 @@ Court, n.:
 A midget had a date with a very tall girl.  It was a quiff-hanger.
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
