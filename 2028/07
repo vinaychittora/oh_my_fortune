@@ -388,3 +388,8 @@ The road to hell is paved with good intentions.  And littered with
 sloppy analysis!
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
