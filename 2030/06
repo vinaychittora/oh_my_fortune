@@ -905,3 +905,6 @@ Seems he's screwing everyone but her.
 Happiness is just an illusion, filled with sadness and confusion.
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
