@@ -449,3 +449,13 @@ There will always be beer cans rolling on the floor of your car when
 the boss asks for a lift home from the office.
 
 
+The Microsoft Exchange MTA Stacks service depends on the Microsoft Exchange
+System Attendant service which failed to start because of the following
+error:
+
+The operation completed successfully.
+
+For more information, see Help and Support Center at
+http://go.microsoft.com/fwlink/events.asp.
+
+
