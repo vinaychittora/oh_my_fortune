@@ -772,3 +772,8 @@ much too large to implement.  Most computer scientists don't notice
 this because they are still arguing over what else to add to ADA.
 
 
+I had the rare misfortune of being one of the first people to try and
+implement a PL/1 compiler.
+		-- T. Cheatham
+
+
