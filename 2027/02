@@ -965,3 +965,8 @@ daughter for camp clothes, and there are certain measurements only her
 mother is allowed to take.
 
 
+Q:	Why is it that the more accuracy you demand from an interpolation
+	function, the more expensive it becomes to compute?
+A:	That's the Law of Spline Demand.
+
+
