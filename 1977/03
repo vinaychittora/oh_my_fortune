@@ -445,3 +445,8 @@ pub!"
 Smile!  You're on Candid Camera.
 
 
+>>> Internal error in fortune program:
+>>>	fnum=2987  n=45  flag=1  goose_level=-232323
+>>> Please write down these values and notify fortune program administrator.
+
+
