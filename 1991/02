@@ -29,3 +29,6 @@ OF A CRAZED MADMAN'S LUST.
 		-- A Taste of Blood (1967)
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
