@@ -401,3 +401,6 @@ Harrisberger's Fourth Law of the Lab:
 	equipment ruined.
 
 
+Make sure your code does nothing gracefully.
+
+
