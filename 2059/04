@@ -149,3 +149,9 @@ Before borrowing money from a friend, decide which you need more.
 		-- Addison H. Hallock
 
 
+SCENARIO:
+	An imagined sequence of events that provides the context in
+	which a business decision is made.  Scenarios always come in
+	sets of three: best case, worst case, and just in case.
+
+
