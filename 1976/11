@@ -165,3 +165,8 @@ you ask that dog what his favorite formatter is,
 and he says "roff! roff!", well, I'll just have to...
 
 
+Law of Continuity:
+	Experiments should be reproducible.
+	They should all fail the same way.
+
+
