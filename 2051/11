@@ -689,3 +689,6 @@ Leibowitz's Rule:
 	finger if you hold the hammer with both hands.
 
 
+Try `stty 0' -- it works much better.
+
+
