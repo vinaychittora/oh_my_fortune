@@ -851,3 +851,6 @@ I do desire we may be better strangers.
 		-- William Shakespeare, "As You Like It"
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
