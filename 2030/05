@@ -565,3 +565,6 @@ of fiction produced in it.  People in disguise speak freely.
 10. A beer won't tease you because you once liked Barry Manilow.
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
