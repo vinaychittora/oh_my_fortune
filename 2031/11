@@ -865,3 +865,6 @@ In charity there is no excess.
 /usr/news/gotcha
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
