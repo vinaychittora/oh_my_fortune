@@ -239,3 +239,6 @@ and forth.
 of carp-to-carp walleting."
 
 
+Don't compare floating point numbers solely for equality.
+
+
