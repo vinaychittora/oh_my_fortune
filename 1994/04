@@ -668,3 +668,7 @@ go on to the kitty afterworld complete.
 the law -- no retailing spirits after 2:00 AM."
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
