@@ -541,3 +541,6 @@ COLD:
 	When the local flashers are handing out written descriptions.
 
 
+The moving cursor writes, and having written, blinks on.
+
+
