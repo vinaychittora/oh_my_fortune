@@ -1012,3 +1012,23 @@ important to him than his table or his white robe.
 This fortune was brought to you by the people at Hewlett-Packard.
 
 
+better !pout !cry
+better watchout
+lpr why
+santa claus <north pole >town
+
+cat /etc/passwd >list
+ncheck list
+ncheck list
+cat list | grep naughty >nogiftlist
+cat list | grep nice >giftlist
+santa claus <north pole >town
+
+who | grep sleeping
+who | grep awake
+who | egrep 'bad|good'
+for (goodness sake) {
+	be good
+}
+
+
