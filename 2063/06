@@ -115,3 +115,8 @@ Moneyliness is next to Godliness.
 		-- Andries van Dam
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
