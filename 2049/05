@@ -388,3 +388,8 @@ man.  Mud-as-man alone could speak.
 FreeBSD: Have you had your fairings today?
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
