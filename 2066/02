@@ -408,3 +408,8 @@ describing a pond:
 		-- Stephen Pile, "The Book of Heroic Failures"
 
 
+Law of Continuity:
+	Experiments should be reproducible.
+	They should all fail the same way.
+
+
