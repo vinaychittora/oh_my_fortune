@@ -713,3 +713,6 @@ They tell you that you've failed the test.
 		-- Buggles, "Living in the Plastic Age"
 
 
+Be careful when a loop exits to the same place from side and bottom.
+
+
