@@ -738,3 +738,8 @@ drink with -- even if he drank.
 		-- H. L. Mencken
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
