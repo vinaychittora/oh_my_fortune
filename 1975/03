@@ -915,3 +915,7 @@ QOTD:
 	"It's a dog-eat-dog world, and I'm wearing Milk Bone underwear."
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
