@@ -507,3 +507,8 @@ into lizards and attack without warning, and large bats usually fly in the
 window.  (Additionally, you begin to believe that elevators have windows.)
 
 
+Steinbach's Guideline for Systems Programming:
+	Never test for an error condition you don't know how to
+handle.
+
+
