@@ -329,3 +329,6 @@ Norm:   Going down?
 egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
 
 
+A tall, dark stranger will have more fun than you.
+
+
