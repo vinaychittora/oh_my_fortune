@@ -493,3 +493,8 @@ I can't believe that out of 100,000 sperm, you were the quickest.
 If you can read this, you're too close.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
