@@ -727,3 +727,8 @@ If I had any humility I would be perfect.
 		-- Ted Turner
 
 
+>>> Internal error in fortune program:
+>>>	fnum=2987  n=45  flag=1  goose_level=-232323
+>>> Please write down these values and notify fortune program administrator.
+
+
