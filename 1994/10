@@ -772,3 +772,7 @@ in the right place, but their head is a thoroughly inefficient organ.
 		-- W. Somerset Maugham, "The Summing Up"
 
 
+Asynchronous inputs are at the root of our race problems.
+		-- D. Winker and F. Prosser
+
+
