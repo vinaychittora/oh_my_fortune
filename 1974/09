@@ -761,3 +761,9 @@ mathematics is that it's cheaper than institutionalizing all those
 people.
 
 
+Note: The system panics with a "NULL pointer dereference" message
+
+Failed due to: SunOS 5.8 is installed.
+		-- Output of a SunCheckup run on a Solaris 8 machine
+
+
