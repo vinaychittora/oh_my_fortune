@@ -552,3 +552,18 @@ Alas, how love can trifle with itself!
 		-- William Shakespeare, "The Two Gentlemen of Verona"
 
 
+Conjecture: All odd numbers are prime.
+
+	Mathematician's Proof:
+		3 is prime.  5 is prime.  7 is prime.  By induction, all
+		odd numbers are prime.
+	Physicist's Proof:
+		3 is prime.  5 is prime.  7 is prime.  9 is experimental
+		error.  11 is prime.  13 is prime ...
+	Engineer's Proof:
+		3 is prime.  5 is prime.  7 is prime.  9 is prime.
+		11 is prime.  13 is prime ...
+	Computer Scientist's Proof:
+		3 is prime.  3 is prime.  3 is prime.  3 is prime...
+
+
