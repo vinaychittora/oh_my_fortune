@@ -234,3 +234,11 @@ from her body than could be contained in a cylinder 4 feet in diameter and
 I think, therefore I am... I think.
 
 
+No proper program contains an indication which as an operator-applied
+occurrence identifies an operator-defining occurrence which as an
+indication-applied occurrence identifies an indication-defining occurrence
+different from the one identified by the given indication as an
+indication-applied occurrence.
+		-- ALGOL 68 Report
+
+
