@@ -612,3 +612,13 @@ IMMANUEL's achievements and internal architecture.  We will also briefly
 discuss our recent efforts to apply wisdom engineering to oil exploration.
 
 
+===  ALL CSH USERS PLEASE NOTE  ========================
+
+Set the variable $LOSERS to all the people that you think are losers.  This
+will cause all said losers to have the variable $PEOPLE-WHO-THINK-I-AM-A-LOSER
+updated in their .login file.  Should you attempt to execute a job on a
+machine with poor response time and a machine on your local net is currently
+populated by losers, that machine will be freed up for your job through a
+cold boot process.
+
+
