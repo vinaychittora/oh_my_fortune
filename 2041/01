@@ -843,3 +843,7 @@ gradually let the task completely overwhelm you.
 Sex and drugs and UNIX.
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
