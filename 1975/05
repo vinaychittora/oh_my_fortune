@@ -231,3 +231,9 @@ so in our turn we shall give the world a progeny yet more corrupt.
 		-- Quintus Horatius Flaccus (Horace)
 
 
+Both models are identical in performance, functional operation, and
+interface circuit details.  The two models, however, are not compatible
+on the same communications line connection.
+		-- Bell System Technical Reference
+
+
