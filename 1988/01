@@ -967,3 +967,7 @@ Official Project Stages:
 	7. Promotion of the Non-participants
 
 
+Don't patch bad code -- rewrite it.
+		-- Kernighan and Plauger, "The Elements of Programming Style"
+
+
