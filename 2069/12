@@ -477,3 +477,8 @@ something to occur to you.
 	 referring to AST's.]
 
 
+What will happen when the 32-bit Unix date goes negative in mid-January
+2038 does not bear thinking about.
+		-- Henry Spencer
+
+
