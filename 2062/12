@@ -433,3 +433,8 @@ Never fly under a seagull - they'll shit on your airplane.
 They finally got King Midas, I hear.  Gild by association.
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
