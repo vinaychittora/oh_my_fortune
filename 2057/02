@@ -470,3 +470,8 @@ Heard that the next Space Shuttle is supposed to carry several
 Guernsey cows?  It's gonna be the herd shot 'round the world.
 
 
+This process can check if this value is zero, and if it is, it does
+something child-like.
+		-- Forbes Burkowski, CS, University of Washington
+
+
