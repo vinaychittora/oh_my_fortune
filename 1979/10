@@ -834,3 +834,8 @@ terms of importance could rank near the introduction of the Gutenberg press.
 		-- Gordon Bell
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
