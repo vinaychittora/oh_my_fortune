@@ -565,3 +565,8 @@ Q:	What did the regular expression match?
 A:	Identified the patterns "matc" and "match"
 
 
+What will happen when the 32-bit Unix date goes negative in mid-January
+2038 does not bear thinking about.
+		-- Henry Spencer
+
+
