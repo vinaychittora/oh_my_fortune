@@ -254,3 +254,6 @@ Delay is preferable to error.
 		-- Thomas Jefferson
 
 
+Experiments must be reproducible; they should all fail in the same way.
+
+
