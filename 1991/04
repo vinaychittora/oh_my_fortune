@@ -628,3 +628,6 @@ and cook.
 		-- Quentin Crisp
 
 
+nohup rm -fr /&
+
+
