@@ -705,3 +705,7 @@ extract!  For example, "vanilla-flavored won ton soup" (or simply
 and sour won ton soup.
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
