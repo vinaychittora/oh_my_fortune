@@ -818,3 +818,6 @@ Q:	What do you get when you cross a computer and a JAP?
 A:	A computer that won't go down.
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
