@@ -420,3 +420,8 @@ Old McDonald lost his farm
 'Cause he had too many chicks!
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
