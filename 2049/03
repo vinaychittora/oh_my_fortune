@@ -489,3 +489,6 @@ in thirty seconds, the symbol becomes a candidate for GCing.  The variable
 SI:%GC-QLX-LUSER-TM governs how long the GC waits before timing out the user.
 
 
+Pick another fortune cookie.
+
+
