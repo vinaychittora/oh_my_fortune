@@ -19,3 +19,6 @@ ladders, we had best hope that it does not rain much.
 		-- Paul Licker
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
