@@ -545,3 +545,7 @@ I find that I cannot horrify, I'll go for the gross-out.
 Your business will assume vast proportions.
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
