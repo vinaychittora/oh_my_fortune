@@ -747,3 +747,27 @@ And the hunter home from the hill.
 Double!
 
 
+curtation n. The enforced compression of a string in the fixed-length field
+environment.
+	The problem of fitting extremely variable-length strings such as names,
+addresses, and item descriptions into fixed-length records is no trivial
+matter.  Neglect of the subtle art of curtation has probably alienated more
+people than any other aspect of data processing.  You order Mozart's "Don
+Giovanni" from your record club, and they invoice you $24.95 for MOZ DONG.
+The witless mapping of the sublime onto the ridiculous!  Equally puzzling is
+the curtation that produces the same eight characters, THE BEST, whether you
+order "The Best of Wagner", "The Best of Schubert", or "The Best of the Turds".
+Similarly, wine lovers buying from computerized wineries twirl their glasses,
+check their delivery notes, and inform their friends, "A rather innocent,
+possibly overtruncated CAB SAUV 69 TAL."  The squeezing of fruit into 10
+columns has yielded such memorable obscenities as COX OR PIP.  The examples
+cited are real, and the curtational methodology which produced them is still
+with us.
+
+MOZ DONG n.
+	Curtation of Don Giovanni by Wolfgang Amadeus Mozart and Lorenzo da
+Ponte, as performed by the computerized billing ensemble of the Internat'l
+Preview Society, Great Neck (sic), N.Y.
+		-- Stan Kelly-Bootle, "The Devil's DP Dictionary"
+
+
