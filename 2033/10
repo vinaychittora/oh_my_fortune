@@ -665,3 +665,7 @@ learn to dread each day as it comes.
 		-- Donald Kaul
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
