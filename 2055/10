@@ -1099,3 +1099,6 @@ Because she's unable to postulate How.
 		-- Frederick Winsor
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
