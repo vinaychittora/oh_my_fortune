@@ -845,3 +845,7 @@ Parsley is gharsley.
 Shhh... be vewy, vewy, quiet!  I'm hunting wabbits...
 
 
+question = ( to ) ? be : ! be;
+		-- William Shakespeare
+
+
