@@ -323,3 +323,8 @@ It may not be funny, but it's damned amusing!
 Phasers locked on target, Captain.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
