@@ -386,3 +386,6 @@ If there is a possibility of several things going wrong, the one that
 will cause the most damage will be the one to go wrong.
 
 
+fortune: cpu time/usefulness ratio too high -- core dumped.
+
+
