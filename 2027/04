@@ -83,3 +83,6 @@ probably for at least the next decade.
 		-- T. Cheatham
 
 
+The REVERSE function works on the opposite SEXPR.
+
+
