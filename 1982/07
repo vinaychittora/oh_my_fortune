@@ -782,3 +782,6 @@ Put no trust in cryptic comments.
 A plucked goose doesn't lay golden eggs.
 
 
+Be careful when a loop exits to the same place from side and bottom.
+
+
