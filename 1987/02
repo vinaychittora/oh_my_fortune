@@ -348,3 +348,7 @@ it is either a half-truth or one-and-a-half truths.
 		-- Karl Kraus
 
 
+question = ( to ) ? be : ! be;
+		-- William Shakespeare
+
+
