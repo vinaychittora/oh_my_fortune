@@ -76,3 +76,6 @@ Brings good fortune.
 All things being equal, you are bound to lose.
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
