@@ -821,3 +821,13 @@ principal factor.  The remaining 18 percent revealed that they had been
 sucked into it.
 
 
+The Microsoft Exchange MTA Stacks service depends on the Microsoft Exchange
+System Attendant service which failed to start because of the following
+error:
+
+The operation completed successfully.
+
+For more information, see Help and Support Center at
+http://go.microsoft.com/fwlink/events.asp.
+
+
