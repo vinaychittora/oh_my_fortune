@@ -425,3 +425,7 @@ And why he don't like me I don't understand.
 Facts are stubborn, but statistics are more pliable.
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
