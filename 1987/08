@@ -796,3 +796,23 @@ Maybe if the guy who developed Twinkies hadn't had such a low
 opinion of himself they would have been an inch or two longer!
 
 
+Proposed Additions to the PDP-11 Instruction Set:
+
+PI	Punch Invalid
+POPI	Punch Operator Immediately
+PVLC	Punch Variable Length Card
+RASC	Read And Shred Card
+RPM	Read Programmers Mind
+RSSC	Reduce Speed, Step Carefully (for improved accuracy)
+RTAB	Rewind Tape and Break
+RWDSK	Rewind Disk
+RWOC	Read Writing On Card
+SCRBL	Scribble to disk - faster than a write
+SLC	Search for Lost Chord
+SPSW	Scramble Program Status Word
+SRSD	Seek Record and Scar Disk
+STROM	Store in Read Only Memory
+TDB	Transfer and Drop Bit
+WBT	Water Binary Tree
+
+
