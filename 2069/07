@@ -576,3 +576,9 @@ prosecution for perjury and fraud.
 It now costs more to amuse a child than it once did to educate his father.
 
 
+It is perfectly permissible for every system call to fail with [ENOTADUCK]
+unless the first five bytes of the caller's address space contain the
+word "quack".
+		-- Garrett Wollman
+
+
