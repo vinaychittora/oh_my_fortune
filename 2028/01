@@ -120,3 +120,9 @@ I did something wrong, now I long for yesterday ...
 Size counts.
 
 
+Note: The system panics with a "NULL pointer dereference" message
+
+Failed due to: SunOS 5.8 is installed.
+		-- Output of a SunCheckup run on a Solaris 8 machine
+
+
