@@ -944,3 +944,9 @@ There are no great men, buster.  There are only men.
 		-- Elaine Stewart, "The Bad and the Beautiful"
 
 
+It is perfectly permissible for every system call to fail with [ENOTADUCK]
+unless the first five bytes of the caller's address space contain the
+word "quack".
+		-- Garrett Wollman
+
+
