@@ -27,3 +27,6 @@ meant to be discarded:  that the whole point is to always see it as
 a soap bubble?
 
 
+Experiments must be reproducible; they should all fail in the same way.
+
+
