@@ -644,3 +644,6 @@ them that it doesn't make any difference.
 National Sex Week -- don't let your meat loaf.
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
