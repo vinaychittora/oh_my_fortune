@@ -191,3 +191,8 @@ A guilty conscience is the mother of invention.
 		-- Carolyn Wells
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
