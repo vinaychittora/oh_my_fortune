@@ -317,3 +317,13 @@ If everything seems to be going well,
 you have obviously overlooked something.
 
 
+Introducing, the 1010, a one-bit processor.
+
+INSTRUCTION SET
+	Code	Mnemonic	What
+	0	NOP		No Operation
+	1	JMP		Jump (address specified by next 2 bits)
+
+Now Available for only 12 1/2 cents!
+
+
