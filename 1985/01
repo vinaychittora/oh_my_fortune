@@ -822,3 +822,9 @@ is like the treatment of an illness.
 Today is the first day of the rest of the mess.
 
 
+Both models are identical in performance, functional operation, and
+interface circuit details.  The two models, however, are not compatible
+on the same communications line connection.
+		-- Bell System Technical Reference
+
+
