@@ -104,3 +104,6 @@ fool is despised only because he is a lawyer.
 		-- Montesquieu
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
