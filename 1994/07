@@ -833,3 +833,10 @@ It is the argument of tyrants; it is the creed of slaves.
 		-- William Pitt, 1783
 
 
+The connection between the language in which we think/program and the problems
+and solutions we can imagine is very close.  For this reason restricting
+language features with the intent of eliminating programmer errors is at best
+dangerous.
+		-- Bjarne Stroustrup
+
+
