@@ -785,3 +785,8 @@ SYSTEM-INDEPENDENT:
 	Works equally poorly on all systems.
 
 
+Thus spake the master programmer:
+	"When program is being tested, it is too late to make design changes."
+		-- Geoffrey James, "The Tao of Programming"
+
+
