@@ -537,3 +537,18 @@ the closest our country has ever been to being even.
 		-- The Best of Will Rogers
 
 
+Proof techniques #1: Proof by Induction.
+
+This technique is used on equations with 'n' in them.  Induction
+techniques are very popular, even the military use them.
+
+SAMPLE:  Proof of induction without proof of induction.
+
+	We know it's true for n equal to 1.  Now assume that it's true
+for every natural number less than n.  N is arbitrary, so we can take n
+as large as we want.  If n is sufficiently large, the case of n+1 is
+trivially equivalent, so the only important n are n less than n.  We can
+take n = n (from above), so it's true for n+1 because it's just about n.
+	QED.	(QED translates from the Latin as "So what?")
+
+
