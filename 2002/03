@@ -478,3 +478,8 @@ Liberty don't work as good in practice as it does in speeches.
 		-- The Best of Will Rogers
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
