@@ -189,3 +189,8 @@ respect to theories about how the process operates.
 Blessed are the meek for they shall inhibit the earth.
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
