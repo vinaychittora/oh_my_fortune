@@ -439,3 +439,7 @@ IBM: It may be slow, but it's hard to use.
 egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
 
 
+Appearances often are deceiving.
+		-- Aesop
+
+
