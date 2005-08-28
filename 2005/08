@@ -795,3 +795,10 @@ Smuggling... It's not just a job, it's an adventure!
 FACILITY REJECTED 100044200000;
 
 
+In fact, S. M. Simpson, eventually devised an efficient 24-point Fourier
+transform, which was a precursor to the Cooley-Tukey fast Fourier transform
+in 1965.  The FFT made all of Simpson's efficient autocorrelation and
+spectrum programs instantly obsolete, on which he had worked half a lifetime.
+		-- Proc. IEEE, Sept. 1982, p.900
+
+
