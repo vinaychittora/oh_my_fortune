@@ -585,3 +585,8 @@ I'd rather have a free bottle in front of me than a prefrontal lobotomy.
 [Also attributed to S. Clay Wilson.  Ed.]
 
 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+		-- Bart Miller
+
+
