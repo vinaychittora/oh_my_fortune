@@ -578,3 +578,6 @@ Not one damn thing do we solve.
 Let a Field Service Engineer put it in.
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
