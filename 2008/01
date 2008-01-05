@@ -121,3 +121,7 @@ then asks the backhoe operator for directions.
 		-- Bill Bradford <mrbill@mrbill.net>
 
 
+Machine-independent program:
+	A program that will not run on any machine.
+
+
