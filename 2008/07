@@ -1,3 +1,8 @@
 Most people have a mind that's open by appointment only.
 
 
+Real software engineers don't debug programs, they verify correctness.
+This process doesn't necessarily involve execution of anything on a
+computer, except perhaps a Correctness Verification Aid package.
+
+
