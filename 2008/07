@@ -540,3 +540,6 @@ A:	Fifteen.  One to do it, and fourteen to write document number
 	consists of sequences of non-blank characters separated by blanks".
 
 
+Don't compare floating point numbers solely for equality.
+
+
