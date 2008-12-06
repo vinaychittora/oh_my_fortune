@@ -120,3 +120,9 @@ Boring your friends about it is the sin.
 		-- Mama Liz
 
 
+It is perfectly permissible for every system call to fail with [ENOTADUCK]
+unless the first five bytes of the caller's address space contain the
+word "quack".
+		-- Garrett Wollman
+
+
