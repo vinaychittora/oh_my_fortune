@@ -853,3 +853,7 @@ Two weeks later, the men were so ashamed of what they
 had been doing, they dug her back up.
 
 
+Real Programs don't use shared text.  Otherwise, how can they
+use functions for scratch space after they are finished calling them?
+
+
