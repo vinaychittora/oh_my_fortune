@@ -541,3 +541,8 @@ Self Test for Paranoia:
 Whatever you want to do, you have to do something else first.
 
 
+A fractal is by definition a set for which the Hausdorff Besicovitch
+dimension strictly exceeds the topological dimension.
+		-- Mandelbrot, "The Fractal Geometry of Nature"
+
+
