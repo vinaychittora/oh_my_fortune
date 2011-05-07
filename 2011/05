@@ -219,3 +219,8 @@ for politics.
 Any sufficiently advanced technology is indistinguishable from a rigged demo.
 
 
+Real software engineers don't debug programs, they verify correctness.
+This process doesn't necessarily involve execution of anything on a
+computer, except perhaps a Correctness Verification Aid package.
+
+
