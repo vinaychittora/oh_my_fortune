@@ -236,3 +236,8 @@ Q:	Why are Jewish divorces so expensive?
 A:	Because they're worth it!
 
 
+This process can check if this value is zero, and if it is, it does
+something child-like.
+		-- Forbes Burkowski, CS, University of Washington
+
+
