@@ -718,3 +718,6 @@ one can possibly misunderstand, someone will.
 If you have a procedure with 10 parameters, you probably missed some.
 
 
+"Virtual" means never knowing where your next byte is coming from.
+
+
