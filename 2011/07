@@ -578,3 +578,7 @@ from religious conviction.
 Neutrinos are into physicists.
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
