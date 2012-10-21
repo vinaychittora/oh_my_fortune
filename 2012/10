@@ -671,3 +671,7 @@ The faster we go, the rounder we get.
 		-- The Grateful Dead
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
