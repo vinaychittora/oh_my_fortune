@@ -344,3 +344,10 @@ When things go well, expect something to
 explode, erode, collapse or just disappear.
 
 
+In fact, S. M. Simpson, eventually devised an efficient 24-point Fourier
+transform, which was a precursor to the Cooley-Tukey fast Fourier transform
+in 1965.  The FFT made all of Simpson's efficient autocorrelation and
+spectrum programs instantly obsolete, on which he had worked half a lifetime.
+		-- Proc. IEEE, Sept. 1982, p.900
+
+
