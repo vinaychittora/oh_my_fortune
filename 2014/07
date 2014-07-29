@@ -1010,3 +1010,8 @@ fail me."
 Money may buy friendship but money cannot buy love.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
