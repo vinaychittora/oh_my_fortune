@@ -83,3 +83,7 @@ Coitus interruptus, n.:
 	"I want to have your child."
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
