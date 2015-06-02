@@ -56,3 +56,8 @@ there is no cat.
 		-- Albert Einstein, when asked to describe radio
 
 
+Real software engineers don't debug programs, they verify correctness.
+This process doesn't necessarily involve execution of anything on a
+computer, except perhaps a Correctness Verification Aid package.
+
+
