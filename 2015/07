@@ -503,3 +503,10 @@ to the copy center and make as many copies as you want."
 		-- Kirk McKusick
 
 
+The connection between the language in which we think/program and the problems
+and solutions we can imagine is very close.  For this reason restricting
+language features with the intent of eliminating programmer errors is at best
+dangerous.
+		-- Bjarne Stroustrup
+
+
