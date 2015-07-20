@@ -947,3 +947,7 @@ Genlock, n.:
 	Why he stays in the bottle.
 
 
+question = ( to ) ? be : ! be;
+		-- William Shakespeare
+
+
