@@ -920,3 +920,8 @@ limitations, software doesn't.  It's a real shame that Turing machines are
 so poor at I/O.
 
 
+Programmers used to batch environments may find it hard to live
+without giant listings; we would find it hard to use them.
+		-- Dennis M. Ritchie
+
+
