@@ -767,3 +767,6 @@ but none, I think, do there embrace.
 		-- Andrew Marvell
 
 
+Be careful when a loop exits to the same place from side and bottom.
+
+
