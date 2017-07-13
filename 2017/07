@@ -497,3 +497,6 @@ terror.
 		-- W. K. Hartmann
 
 
+panic: kernel trap (ignored)
+
+
