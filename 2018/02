@@ -889,3 +889,6 @@ Kissing a fish is like smoking a bicycle.
 You will gain money by a fattening action.
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
