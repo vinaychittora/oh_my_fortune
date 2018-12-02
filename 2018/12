@@ -42,3 +42,7 @@ I realized that there was far more to haute cuisine then I'd ever imagined.
 And now, just look at me."
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
