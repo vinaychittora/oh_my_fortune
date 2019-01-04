@@ -89,3 +89,6 @@ Hear about...
 	off the sofa?
 
 
+egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+
+
