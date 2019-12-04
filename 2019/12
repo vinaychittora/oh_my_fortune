@@ -48,3 +48,10 @@ Q:	What do you call a half-dozen Indians with Asian flu?
 A:	Six sick Sikhs (sic).
 
 
+GNU Make will no longer go into an infinite loop when fed the horrid
+trash that passes for makefiles that `imake' produces (so you can
+compile X, despite the extreme stubbornness and irrationality of its
+maintainers).
+		-- GNU Make 3.55 release notes
+
+
