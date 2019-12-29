@@ -922,3 +922,6 @@ As of next Tuesday, C will be flushed in favor of COBOL.
 Please update your programs.
 
 
+Try `stty 0' -- it works much better.
+
+
