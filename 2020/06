@@ -249,3 +249,6 @@ The best cure for insomnia is to get a lot of sleep.
 		-- W. C. Fields
 
 
+Usage: fortune -P [] -a [xsz] [Q: [file]] [rKe9] -v6[+] dataspec ... inputdir
+
+
