@@ -77,3 +77,7 @@ a substitute for intelligence.
 		-- Lyman Bryson
 
 
+Never test for an error condition you don't know how to handle.
+		-- Steinbach
+
+
