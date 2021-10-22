@@ -726,3 +726,8 @@ The hacker as a mate/lover and the signs of trouble:
 		indicate a malfunction.
 
 
+From a Tru64 patch description:
+
+	Fixes a bug that causes a panic due to software error
+
+
