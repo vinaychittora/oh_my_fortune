@@ -704,3 +704,6 @@ thankful for a good one.
 		-- Marjorie Kinnan Rawlings
 
 
+((lambda (foo) (bar foo)) (baz))
+
+
