@@ -644,3 +644,7 @@ career.
 The first version always gets thrown away.
 
 
+Sendmail may be safely run set-user-id to root.
+		-- Eric Allman, "Sendmail Installation Guide"
+
+
