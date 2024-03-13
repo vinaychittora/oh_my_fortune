@@ -490,3 +490,6 @@ For with it came syntax ...
 		-- John Simon
 
 
+Experiments must be reproducible; they should all fail in the same way.
+
+
