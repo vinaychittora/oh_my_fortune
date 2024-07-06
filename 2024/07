@@ -229,3 +229,13 @@ but your parents moved away, and you had to leave it behind.
 Why is it taking so long for her to bring out all the good in you?
 
 
+Introducing, the 1010, a one-bit processor.
+
+INSTRUCTION SET
+	Code	Mnemonic	What
+	0	NOP		No Operation
+	1	JMP		Jump (address specified by next 2 bits)
+
+Now Available for only 12 1/2 cents!
+
+
