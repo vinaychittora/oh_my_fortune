@@ -397,3 +397,6 @@ Real Users are afraid they'll break the machine -- but they're never
 afraid to break your face.
 
 
+Make sure your code does nothing gracefully.
+
+
