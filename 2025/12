@@ -423,3 +423,7 @@ correct.
 		-- Ralph Hartley
 
 
+Q:	How did the regular expression cross the road?
+A:	^.*$
+
+
